@@ -1,0 +1,7 @@
+[0105/120245.617:INFO:CONSOLE(1)] "Hiding message due to error: Could not find the screen of the target", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202021%20(Prerelease)/Required/www-butler/build/spaces.js (1)
+[0105/123226.516:WARNING:angle_platform_impl.cc(52)] compileToBinary(230): 
+C:\fakepath(69,8-58): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+C:\fakepath(77,9-43): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+
+[0105/131234.636:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0105/132503.100:INFO:CONSOLE(1)] "Hiding message due to error: Could not find the screen of the target", source: file:///C:/Program%20Files/Adobe/Adobe%20Photoshop%202021%20(Prerelease)/Required/www-butler/build/spaces.js (1)

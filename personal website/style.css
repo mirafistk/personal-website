@@ -1,0 +1,187 @@
+*{
+    font-family: Roboto;
+    
+   
+}
+
+.nav-menu{
+   
+   
+    
+   
+}
+.menu ul{
+    float: right;
+    
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    margin: 0px 10px;
+    transition: all .3s ease 0s;
+    color: black;
+}
+.menu ul li a:hover{
+   color: orange;}
+.first-section{
+    height: 600px;
+   
+}
+.first-section h1{
+    color: #363958;
+    font-size: 80px;
+    line-height: 0px;
+    padding-top: 10px;
+    font-family: Bebas Neue;
+}
+.highlight{
+    color: #FF8367;
+   
+}
+.highlight-TWO{
+    background-color: #E2E2E2;
+    color: #FF8367;
+}
+.first-section p{
+    text-align: justify;
+
+}
+.haf-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+   padding-left: 2%;
+   background-color:#FFFFFF;
+}
+.haf-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 15px;
+    color: azure;
+    font-weight: 700;
+}
+.second-section{
+    height: 600px;
+}
+.third-section {
+    background: #E5E5E5;
+    height: 600px;
+    
+   
+    
+}
+.third-section h2{
+    text-align: center;
+    font-size: 30px;
+    padding: 64px;
+    background-color: #E2E2E2;
+    
+}
+.singel-exp{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 80%;
+}
+.Experiences{
+    background-image: url(image/exp-bg.png );
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.exp{
+    text-align: center;
+    font-size: 40px;
+}
+
+#FullStack{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg,lightsalmon ,tomato);
+    border-image-slice: 1;
+}
+#Baby{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+.singel-box{
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 60%;
+    width: 320px;
+    align-items: center;
+    
+
+}
+.singel-box img{
+    align-items: center;
+    margin: 15px -15px;
+}
+.footer-image{
+    background-image: url(images/Group_33094_1.png);
+    width: 906px;
+    border-radius: 30px;
+    background-repeat: no-repeat;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    margin: 670px 212px;
+    
+    
+}
+.live-chat p{
+    
+    font-size: 30px;
+    padding: 70px;
+    font-family: Bebas Neue;
+    color: white;
+}
+.live-chat a{
+    float:right;
+}
+.last {
+    text-align: center;
+    margin-top: 970px;
+}
+.last h4{
+    font-family: Bebas Neue;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 24px;
+color: #696871;
+}
+.last h2{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+
+color: #363958;
+}
+.last img{
+    padding: 8px;
+    align-items: center;
+    float: initial;
+}
+.Chat{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    border-radius: 15px;
+    color: azure;
+    font-weight: 700
+    
+    
+}
+#livechat{
+    float: left;
+    margin-left: 425px;
+}

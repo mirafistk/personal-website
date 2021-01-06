@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+    background-color: rgb(24, 16, 14);
+}
+h1,p,li,button{
+   
+}
+.nav-menu{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.logo{
+    font-weight: 500px;
+    font-size: 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    letter-spacing: .2em;
+    margin-right: auto;
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    margin: 0px 10px;
+    transition: all .3s ease 0s;
+    
+}
+.menu ul li a:hover{
+   color: orange;
+   
+   
+}
+button{
+    border: none;
+    margin-right: 120px;
+    background-color: rgb(187, 11, 34);
+    padding: 6px 10px;
+    border-radius: 15%;
+    font-weight: bold;
+    transition: all .3s ease 0s;
+}
+button:hover{
+    background-color: tomato;
+    
+}
